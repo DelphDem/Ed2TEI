@@ -1,5 +1,0 @@
-[console_scripts]
-add_notes = Ed2TEI.add_notes:main
-add_rejected = Ed2TEI.add_rejected:main
-add_variants = Ed2TEI.add_variants:main
-create_tei = Ed2TEI.process_text:main
