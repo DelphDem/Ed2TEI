@@ -1,6 +1,6 @@
 # Ed2TEI
 
-`Ed2TEI` is a Python package designed to convert critical editions into structured XML-TEI format following the TEI P5 Guidelines. The package allows users to create a XML-TEI file from a txt file, and to automate the insertion of variant readings, rejected readings, and notes into a TEI file using structured txt files.
+`Ed2TEI` is a Python package designed to convert critical editions into structured XML-TEI format following the TEI P5 Guidelines. The package allows users to create a TEI XML file from a txt file, and to automate the insertion of variant readings, rejected readings, and notes into a TEI file using structured txt files.
 
 ## Installation
 
