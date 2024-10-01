@@ -29,12 +29,11 @@ The `create_tei` command is used to generate a base TEI file from a structured t
 #### Command
 ```bash
 create_tei [options] --input_file <plain_text_file> --output_file <output_tei_file>
-
 ```
 #### Options
 
-* --input_file (required): Path to the txt file containing the main text to convert.
-* --output_file (required): Path to the generated TEI XML file.
+* `--input_file` (required): Path to the txt file containing the main text to convert.
+* `--output_file` (required): Path to the generated TEI XML file.
 * `--is_verse` (optional): Process the text as verse (paragraph are tagged as stanza using the `<lg>` tag instead of `<p>`).
 * `--number_lines_every` (optional): Number lines every N lines (default: number_lines_every=4).
 * `--number_stanzas_paragraphs` (True/False): Stanzas or paragraphs are numbered (default=True).
@@ -49,7 +48,6 @@ The `add_variants` command is used to insert variant readings into a TEI XML fil
 
 ```bash
 add_variants --tei_file <input_tei_file> --variants_file <variants_text_file> --output_file <output_tei_file>
-
 ````
 #### Options
 
@@ -63,7 +61,6 @@ The `add_rejected` command is used to insert rejected readings into a TEI XML fi
 
 ```bash
 add_rejected --tei_file <input_tei_file> --variants_file <variants_text_file> --output_file <output_tei_file>
-
 ````
 #### Options
 
@@ -99,9 +96,9 @@ line number (lemma) variant [witness]
 
 ```
 
-* Line Number: The line number in the TEI file, indicated with `xml:id="L+number"`, where the variant should be applied, without the 'L' prefix.
-* Lemma: The main text found in the TEI file corresponding to the variant.It should be specified with round brackets.
-* Readings with Witnesses: Each variant reading followed by its witness enclosed in square brackets; in case of several witness for one reading, witness should be separated by a comma. In case of multiple readings for one lemma, the lemma should be repated before each variant.
+* **Line Number**: The line number in the TEI file, indicated with `xml:id="L+number"`, where the variant should be applied, without the 'L' prefix.
+* **Lemma**: The main text found in the TEI file corresponding to the variant.It should be specified with round brackets.
+* **Readings with Witnesses**: Each variant reading followed by its witness enclosed in square brackets; in case of several witness for one reading, witness should be separated by a comma. In case of multiple readings for one lemma, the lemma should be repated before each variant.
 
 #### Example
 For a unique variant:
@@ -119,14 +116,12 @@ For multiple variants for the same lemma:
 The rejected readings file should specify corrections to be marked in the TEI file. The format is:
 
 ```scss
-
-line number (corrected_text) rejected_text
-
+line_number (corrected_text) rejected_text
 ```
 
-* Line Number: The line number in the TEI file, indicated with `xml:id="L+number"`, where the variant should be applied, without the 'L' prefix.
-* Corrected Text: Text that should replace the rejected reading, enclosed in round brackets ().
-* Rejected Text: The text that is currently in the òriginal text but should be marked as rejected.
+* **Line Number**: The line number in the TEI file, indicated with `xml:id="L+number"`, where the variant should be applied, without the 'L' prefix.
+* **Corrected Text**: Text that should replace the rejected reading, enclosed in round brackets ().
+* **Rejected Text**: The text that is currently in the òriginal text but should be marked as rejected.
 
 ## License
 
