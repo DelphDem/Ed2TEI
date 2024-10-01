@@ -7,7 +7,7 @@
 You can install `Ed2TEI` using pip:
 
 ```
-pip install Ed2TEI
+pip install git+https://github.com/DelphDem/Ed2TEI.git
 ```
 ## Features
 
