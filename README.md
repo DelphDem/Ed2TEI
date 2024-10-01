@@ -92,13 +92,13 @@ The variants txt file should contain variant readings for each line in the TEI f
 
 ```scss
 
-line number (lemma) variant [witness]
+line_number (lemma) variant [witness]
 
 ```
 
 * **Line Number**: The line number in the TEI file, indicated with `xml:id="L+number"`, where the variant should be applied, without the 'L' prefix.
 * **Lemma**: The main text found in the TEI file corresponding to the variant.It should be specified with round brackets.
-* **Readings with Witnesses**: Each variant reading followed by its witness enclosed in square brackets; in case of several witness for one reading, witness should be separated by a comma. In case of multiple readings for one lemma, the lemma should be repated before each variant.
+* **Variants with Witnesses**: Each variant reading followed by its witness enclosed in square brackets; in case of several witness for one reading, witness should be separated by a comma. In case of multiple readings for one lemma, the lemma should be repated before each variant.
 
 #### Example
 For a unique variant:
