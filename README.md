@@ -20,7 +20,7 @@ pip install Ed2TEI
 
 ## Usage
 
-The `Ed2TEI` package offers several command-line tools to handle different types of critical apparatus. Below is an overview of the main commands and their expected file formats. The model is based on the first paragraphs of Tony Hunt, *Sermons on Joshua*, vol1, ANTS Plain Texts Series 12-13, London, 1998. Some variants, remarks, and rejected readings have been added to demonstrate the package's possibilities.
+The `Ed2TEI` package offers several command-line tools to handle different types of critical apparatus. Below is an overview of the main commands and their expected file formats. The model is based on the first paragraphs of Tony Hunt, *Sermons on Joshua*, vol1, ANTS Plain Texts Series 12-13, London, 1998. Some variants, notes, and rejected readings have been added to demonstrate the package's possibilities.
 
 ### 1. Creating a TEI Base File
 
