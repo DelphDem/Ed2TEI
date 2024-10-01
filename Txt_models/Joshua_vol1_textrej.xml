@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title />
+    </titleStmt>
+    <publicationStmt><p /></publicationStmt>
+    <sourceDesc><p /></sourceDesc>
+  </fileDesc>
+</teiHeader>
+  <text>
+    <body>
+    <div>
+    <pb ed="base" n="i-7" />
+    <p n="1">
+      <l xml:id="L1"><pb ed="folio" n="1r" /> Donavit illi nomen quod est super omne nomen. [S]eint</l>
+      <l xml:id="L2">Pool li apostres <choice><sic>preole</sic><corr resp="#EDT">parole</corr></choice> de nostre Salvur e dit ke Deu, Pere celeste, dunat a lui un nun ki</l><l n="3" xml:id="L3">est sur tuz autres nuns. Seinl Jeronime dit ke ço est num Jesu. En la reverence de cest</l>
+      <l xml:id="L4">nun, ço dit li Apostres, se flesçhist e plie chascun genul des celestiens, des terriens e</l>
+      <l xml:id="L5">des enfernals, li un volentiers cume fiz e chiers amis, li autre enviz cume serff u felun</l>
+      <l xml:id="L6">entrepris. Ço est a dire en la reverence de cest nun sunt les mainies de la <app type="Vapp"><lem>meisun</lem><rdg wit="#C">mansiun</rdg></app> de</l>
+      <l xml:id="L7">treis estages a Deu enclines.</l>
+    </p>
+    <p n="2">
+      <l xml:id="L8">Li Reis celeste ad une maisun de trois estages. La suveraine estage est li cels, ki est</l>
+      <l xml:id="L9">solier estelé e chambre u clarté est e joie <choice><sic>premaniable</sic><corr resp="#EDT">parmanable</corr></choice>. La maiene est cest siecle, ki est</l><l xml:id="L10">cume sale u ad travail e luite e jur e nuit entrechanjable. L'estage plus base est enfer,</l>
+      <l xml:id="L11">ki est gaiole e chartre u peines sunt e puurs e oscurté estable. El solier lasus siet li Reis</l>
+      <l n="12" xml:id="L12">tutpuissanz e tient feste ki ne fine od ses chiers fiz e privez amis. En la chartre aval est</l>
+      <l xml:id="L13">Sathanas ki tlurmente les feluns e regnet sur cheitifs. En la sale ki meine est sunt</l>
+      <l xml:id="L14">laborurs ki travaillent e champiuns <pb ed="folio" n="1v" /> ki luitent e cumbatent. Ki en la vespree de sa</l>
+      <l n="15" xml:id="L15">vie iert la truvét faili u recreant, il serrai ruéd en la chartre aval a suffrir sanz resurse</l>
+      <l xml:id="L16">pudlente peine e <app type="Vapp"><lem>sulpherin</lem><rdg wit="#C">surferin</rdg></app> feu a tuzdis ardant. E ki al seir de sa <app type="Vapp"><lem>jurnee</lem><rdg wit="#P">journee</rdg></app> iloec serrat</l>
+      <l xml:id="L17">pruvé a pruz e a <choice><sic>pineble</sic><corr resp="#EDT">penible</corr></choice> e de sun enemi avera victorie, <choice><sic>e il</sic><corr resp="#EDT">il</corr></choice> ert translaté el soler lasus a</l><l n="18" xml:id="L18">la feste ki ne faut. Iloec serra refait de la dulzur divine ke dune li Reis de Glorie a nus</l>
+      <l xml:id="L19">ki sumes en la maiene estage, ço est en cest secle. Dit saint Johan Crisostomus: 'Ad</l>
+      <l xml:id="L20">Deu <app type="Vapp"><lem>duné</lem><rdg wit="#P">D ad d.</rdg></app> un asai e esprove', ço est a saveir un poi de repos e de peine, e entre la luur</l>
+      <l n="21" xml:id="L21">del ciel e la tenebrur de enfer chanjable clarté e oscurté, ço est a dire del ciel jur cler</l>
+      <l xml:id="L22">par ure, e de l'enfer nuit obscure. Par ço nus vuelt Deu aprendre ke nus devuns</l>
+      <l xml:id="L23">decliner e [u] nus devuns tendre. La devandite maisun de treis estages en latin est</l>
+      <l n="24" xml:id="L24">apelee 'tristega', ço est maisun de treis estages.  Dunt tute la mainee en cest num Jesu</l>
+      <l xml:id="L25">est a Deu acliné.</l>
+    </p>
+    <p n="3">
+      <l xml:id="L26">Ore oez la purveance <app type="Vapp"><lem>Deu</lem><rdg wit="#C">om</rdg><rdg wit="#D">D. devine</rdg></app> de cest num ki fait a esmerveiller e ki valt a nostre creance</l>
+      <l n="27" xml:id="L27">cunfermer. Moyses escrist le Genesim u il numad Abraham, Ysaac e Jacob e</l>
+      <l xml:id="L28">acuntat lur granz lignages, e Abel e Noé, ki a Deu par justice e par seinte vie</l>
+      <l xml:id="L29">plorent, e de sa meinee maimes fist Moyses mentiun. En cel lung acunte ne fud unkes</l>
+      <l n="30" xml:id="L30">cest num Jesu oi ne leu ne nul d'eals pur merite ke il out ne fud apelé Jesu. En</l>
+      <l xml:id="L31">Exodo truved l'oem u pri-<pb ed="folio" n="2r" />mes est numé cest haut nun par cestes paroles:</l>
+      <l xml:id="L32">[V]enit, inquit, Amalech et expugnabat Israel. Et Moyses dixit ad Jesum in Raphidin:</l>
+      <l n="33" xml:id="L33">'Elige tibi viros potentes ex omnibus filiis Israel et egredere et conflige cum Amalech</l>
+      <l xml:id="L34">crastino'. Ço fait a entendre en rumanz, puis ke li pueples</l>
+    <pb ed="base" n="8" />
+      <l xml:id="L35">de Israel parti de Egypte e ert passé la Ruge Mer, uns reis mescreant, Amalech apelé,</l>
+      <l xml:id="L36">asailli le pueple Deus, 'Dunc dist Moyses a Jesu en Raphidin: "Eslis a tei baruns</l>
+      <l n="3" xml:id="L37">puissanz de tuz les filz Israel, e isse e cumbat od Amalech demain"'. Illuec aprimes</l>
+      <l xml:id="L38">ert truvé le apel de cest nun Jesu. E veez ci merveille grant e purveance divine a</l>
+      <l xml:id="L39">l'honur de cest num. Tant tost cume il fud numé, cil ki en issi apelé receut seignurie e</l>
+      <l n="6" xml:id="L40">fait fud prince e gunfanuner e guvernur de l'ost de Israel. E dunc aturna sei a cumbatre</l>
+      <l xml:id="L41">cuntre Amalech. E a cestui sul duna Deu la grace ke duner ne volt a Moysen ne a</l>
+      <l xml:id="L42">Aaron ne a prophete ne a nul ki en cele chaitiveisun de Egiple fud, ço est a saveir k'il</l>
+      <l n="9" xml:id="L43">mena le pueple Deu en la Terre de Promissiun. Ki bien esgarde les faiz e le</l>
+      <l xml:id="L44">cuntienement de cesti de ki nus lisums premier ke Jesu fud numé, il verra visablement</l>
+      <l xml:id="L45">ke il e ses uveraines furent mireur e signefiance de Jesu Crist nostre raanzur e de la sue</l>
+      <l n="12" xml:id="L46">faisance. Dunt devuns estre esbaldi e afermé en nostre creance.</l>
+    </p>
+    <p n="1">
+      <l xml:id="L47">Or veuns dunc premier ke nus profite e signefie <pb ed="folio" n="2v" /> la parole ke Moyses dist a Jesu</l>
+      <l xml:id="L48">en [cel] liu ki est apelé Raphidin e la bataille ke il fist cuntre Amalech. Mais a ço veer</l>
+      <l n="15" xml:id="L49">nus cuvient primes saver la signefiance des persones e des cuntrees par le sens de lur</l>
+      <l xml:id="L50">nuns. Cest nun Amalech dit tant cume 'lechant [t]erre', ço est a dire terrien honur e</l>
+      <l xml:id="L51">aveir. E de ço signefie Amalech diable, ki est en arçur d'avarice e de cuveitise</l>
+      <l n="18" xml:id="L52">terriene ki il fait savuree e dulz al peccheur cume mel ke l'um al dei leche. Moyses nus</l>
+      <l xml:id="L53">signefie dous choses, une sulunc l'entrepretatiun del nun, autre sulunc allegorie, ço est</l>
+      <l xml:id="L54">espiritel entendement. Sulunc l'entrepretatiun del nun, Moysen [en] ebriu est 'euue' en</l>
+      <l n="21" xml:id="L55">rumanz. De ço [est] dit Moyses, ço est 'ewin', pur ço ke il fud salvé e de mort delivré</l>
+      <l xml:id="L56">par l'ewe u la fille Pharaun le truva. Mais nus avuns ewe de greinur vertu dunt cele ert</l>
+      <l xml:id="L57">signefiance, ço est l'ewe del baptisterie dunt nostre creance surt e ki esleve suillures</l>
+      <l n="24" xml:id="L58">de pecché od ferme creance. E pur ceo signefie Moyses nostre creance e a ceals ki</l>
+      <l xml:id="L59">salvé serrunt par ewe de baptisterie. De cest' ewe dist Deu par sun prophete:</l>
+      <l xml:id="L60">[E]ffundam super vos aquam mundam, et mundabimini ab omnibus inquinamentis</l>
+      <l n="27" xml:id="L61">vestris, ço est, 'Jo espanderai sur vus ewe nette e vus serrez esueiez de tutes</l>
+      <l xml:id="L62">vos suileures'. Sulunc allegorie, ja seit ço k'il la dunast, signefie <pb ed="folio" n="3r" /> Moyses mames</l>
+      <l xml:id="L63">la lei, sicume dit le Ewangelie Habent Moysen et prophetas; audiant illos,</l>
+      <l n="30" xml:id="L64">ço est en rumanz 'Il unt Moysen e les prophetes: oient ceals'.</l>
+      <l xml:id="L65">Moysen posa il pur la lei, les prophetes pur les prophecies. Jesu, ço est 'salvere' en</l>
+      <l xml:id="L66">rumanz e represente par la lettre del nun e par le sens del nun nostre Salveur Jesu Crist,</l>
+      <l n="33" xml:id="L67">ki dignement est numé Jesu, ço est salvur, kar il est salvere e salu de tuz ceals ki</l>
+      <l xml:id="L68">leaument en lui creient. Israel dit tant cume 'hoem veant Deu' e signefie chascun</l>
+      <l xml:id="L69">hume e pueple ki od seinte volenté esgarde Deu od les espiritels oilz del quor cum il</l>
+      <l n="36" xml:id="L70">est plein de puissance e de misericorde.</l>
+    </p>
+    </div>
+    </body>
+  </text>
+</TEI>

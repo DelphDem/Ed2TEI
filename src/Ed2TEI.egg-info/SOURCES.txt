@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/Ed2TEI/_init_.py
+src/Ed2TEI/add_notes.py
+src/Ed2TEI/add_rejected.py
+src/Ed2TEI/add_variants.py
+src/Ed2TEI/process_text.py
+src/Ed2TEI.egg-info/PKG-INFO
+src/Ed2TEI.egg-info/SOURCES.txt
+src/Ed2TEI.egg-info/dependency_links.txt
+src/Ed2TEI.egg-info/entry_points.txt
+src/Ed2TEI.egg-info/top_level.txt

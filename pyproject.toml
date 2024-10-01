@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Ed2TEI"
+version = "0.1.0"
+description = "A package for converting critical editions to TEI XML format"
+authors = [
+    { name = "Delphine Demelas", email = "delphine.demelas@gmail.com" }
+]
+license = { file = "LICENSE" }
+readme = { file = "README.md", content-type = "text/markdown" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+Homepage = "https://github.com/DelphDem/Ed2TEI"
+BugTracker = "https://github.com/DelphDem/Ed2TEI/issues"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+packages = ["Ed2TEI"]
+
+[project.scripts]
+create_tei = "Ed2TEI.process_text:main"
+add_variants = "Ed2TEI.add_variants:main"
+add_rejected = "Ed2TEI.add_rejected:main"
+add_notes = "Ed2TEI.add_notes:main"
