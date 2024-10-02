@@ -78,7 +78,7 @@ The `add_notes` command is used to add editorial notes to specified lines in a T
 * `--variants_file` (required): Path to the text file containing editorial readings.
 * `--output_file` (required): Path to the output TEI XML file.
 
-## File Format Requirements
+## Txt File Format Requirements
 
 To ensure the proper functioning of the package, the txt files need to be structured in a specific format:
 
