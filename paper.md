@@ -20,7 +20,7 @@ bibliography: paper.bib
 
 # Summary
 
-The `Ed2TEI` package was developed to simplify the process of [TEI XML encoding](https://tei-c.org/) for critical editions and variant readings, making it accessible to editors and scholars who may not have extensive experience with XML. By allowing users to work directly with structured plain text files, the tool removes the steep learning curve associated with XML-based markup. These .txt files can easily be produced or adapted from commonly used formats for paper editions, such as .doc or .pdf, facilitating the transition from print to digital editions.
+The `Ed2TEI` package was developed to automate the process of [TEI XML encoding](https://tei-c.org/) for critical editions and variant readings, making it accessible to editors and scholars who may not have extensive experience with XML. By allowing users to work directly with structured plain text files, the tool removes the steep learning curve associated with XML-based markup. These .txt files can easily be produced or adapted from commonly used formats for paper editions, such as .doc or .pdf, facilitating the transition from print to digital editions.
 
 Key features of `Ed2TEI` include automated tagging for variant readings, rejected readings, and editorial notes, as well as flexible handling of different types of textual elements, such as verse and prose. The package can handle complex scenarios that are typically time-consuming to encode in TEI XML P5, like multiple  variants for one lemmata linked to multiple witnesses. As a result, `Ed2TEI` significantly reduces the manual effort required to produce a TEI-compliant document, while maintaining the precision needed for scholarly editions.
 
