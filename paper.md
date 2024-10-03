@@ -246,6 +246,6 @@ Moreover, the tool’s design is the result of practical editorial experiences a
 
 # Acknowledgements
 
-This work was supported by the UK Arts and Humanities Research Council [(AHRC)](https://www.ukri.org/councils/ahrc).
+This work was supported by the UKRI Arts and Humanities Research Council [(AHRC)](https://www.ukri.org/councils/ahrc).
 
 # References
