@@ -167,7 +167,7 @@ line_number (corrected_text) rejected_text
 
 The package provide examples for each type of file.
 
-#Caveats
+# Caveats
 
 While the `Ed2TEI` package provides a more accessible way to encode complex critical editions in TEI, there are several caveats and limitations that potential users should be aware of:
 
