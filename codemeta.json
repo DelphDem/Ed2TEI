@@ -1,0 +1,29 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "applicationCategory": "SoftwareSourceCode,SoftwareApplication",
+    "author": [
+        {
+            "email": "delphine.demelas@gmail.com",
+            "familyName": "Demelas",
+            "givenName": "Delphine",
+            "@id": "https://github.com/DelphDem",
+            "@type": "Person"
+        }
+    ],
+    "codeRepository": "https://github.com/DelphDem/Ed2TEI",
+    "dateCreated": "2024-10-01",
+    "description": "Python package designed to convert critical editions into structured TEI XML format",
+    "identifier": "Ed2TEI",
+    "license": "https://spdx.org/licenses/MIT",
+    "name": "Ed2TEI",
+    "programmingLanguage": "Python",
+    "softwareRequirements": [
+        {
+            "name": "setuptools",
+            "version": ">=45"
+        },
+        "wheel"
+    ],
+    "issueTracker": "https://github.com/DelphDem/Ed2TEI/issues",
+    "@type": "SoftwareSourceCode"
+}
